@@ -1,0 +1,12 @@
+.footer {
+  padding: 20px;
+  background-color: #20232a;
+  color: #abb2bf;
+  text-align: center;
+  margin-top: auto; /* Щоб футер притискався до низу, якщо контенту мало */
+}
+
+.socials {
+  margin-top: 10px;
+  font-size: 0.9em;
+}
